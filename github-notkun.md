@@ -1,15 +1,28 @@
+## Breyta skrám (Edit)
+1. Finna skránna og smella á hana
+2. Ýta á blýantinn:
+
+![edit](/images/2018-11-02_18-42-03.png)
+
+
 ## Láta inn skrár (Upload)
 Ýta á Upload takkann:
 
 ![upload](/images/2018-11-02_18-31-12.png)
 
 ## Búa til möppur
+* Að búa til möppu getur verið snúið en það þarf að smella á:
+1. Create new file
+1. Láta inn möppunafnið og skástrik OG skráarnafn eins og "mappa1/skraarnafn"
+   * Höfundur þekkir ekki betri leið þegar þetta er skrifað!
 
-## Breyta skrám (Edit)
-Ýta á blýantinn:
 
-![edit](/images/2018-11-02_18-42-03.png)
-      
+## Vista breytingar
+
+Smella á græna Commit takkann. Hægt er að setja inn skýringu.
+
+![mynd](/images/2018-11-02_18-43-49.png)
+
 
 ## Forskoða skrá (Preview)
 * Ef unnið er með [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) skrá (.md) er hægt að ýta á Preview takkann
@@ -26,8 +39,3 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
 
-## Vista breytingar
-
-Smella á græna Commit takkann. Hægt er að setja inn skýringu.
-
-![mynd](/images/2018-11-02_18-43-49.png)
