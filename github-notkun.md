@@ -23,3 +23,11 @@
 
 Lesa meira um Markdown:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+
+## Vista breytingar
+
+Smella á græna Commit takkann. Hægt er að setja inn skýringu.
+
+![mynd](/images/2018-11-02_18-43-49.png)
