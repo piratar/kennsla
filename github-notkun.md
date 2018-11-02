@@ -1,6 +1,9 @@
-## Breyta skrám (Edit)
+Til að geta breytt einhverju í "repoi" þarftu að vera skráður Github notandi, sem er frítt. Skráðu þig á https://github.com/
 
-Til að geta breytt skrám þarftu auðvitað að vera skráður Github notandi, sem er frítt. Skráðu þig á https://github.com/
+Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf búið til þitt eigið repo.
+
+
+## Breyta skrám (Edit)
 
 1. Finna skránna og smella á hana
 2. Ýta á blýantinn:
