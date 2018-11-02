@@ -1,14 +1,14 @@
 ## Láta inn skrár (Upload)
 Ýta á Upload takkann:
-![mynd](/images/2018-11-02_18-31-12.png)
+
+![upload](/images/2018-11-02_18-31-12.png)
 
 ## Búa til möppur
 
 ## Breyta skrám (Edit)
 Ýta á blýantinn:
 
-
-![mynd](/images/2018-11-02_18-32-39.png)
+![edit](/images/2018-11-02_18-42-03.png)
       
 
 ## Forskoða skrá (Preview)
@@ -17,6 +17,8 @@
 * Dæmi:
    * 2 hashtögg (og bil) verða að Heading 2, eða `h2` html tagi
    * 3 hashtögg (og bil) verða að Heading 3, eða `h3` html tagi osfrv
+
+![preview](/images/2018-11-02_18-32-39.png)
    
 
 Lesa meira um Markdown:
