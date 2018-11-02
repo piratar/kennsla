@@ -9,7 +9,9 @@ Til að geta breytt skrám þarftu auðvitað að vera skráður Github notandi,
 
 
 ## Láta inn skrár (Upload)
-Ýta á Upload takkann:
+1. Ýta á Upload takkann:
+2. Velja skrár eða draga inná
+3. Ýta á Commit
 
 ![upload](/images/2018-11-02_18-31-12.png)
 
@@ -19,6 +21,8 @@ Til að geta breytt skrám þarftu auðvitað að vera skráður Github notandi,
 1. Láta inn möppunafnið og skástrik OG skráarnafn eins og "mappa1/skraarnafn"
    * Höfundur þekkir ekki betri leið þegar þetta er skrifað!
 
+![folders](/images/2018-11-02_18-57-14.png)
+      
 
 ## Vista breytingar
 
