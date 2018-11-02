@@ -1,4 +1,7 @@
 ## Breyta skrám (Edit)
+
+Til að geta breytt skrám þarftu auðvitað að vera skráður Github notandi, sem er frítt. Skráðu þig á https://github.com/
+
 1. Finna skránna og smella á hana
 2. Ýta á blýantinn:
 
