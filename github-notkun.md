@@ -48,4 +48,12 @@ Lesa meira um Markdown:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
+## Senda breytingabeiðni
+
+Ef þú hefur ekki skrifheimild á repo, þá geturu sent breytingabeiðni "Pull request".
+
+* Ef þú skoðar t.d. https://log.piratar.is þá á hverri síðu er hlekkur "Laga þessa síðu"
+
+![preview](/images/2018-11-03_11-05-12.png)
+      
 
