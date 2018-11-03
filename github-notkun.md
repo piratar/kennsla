@@ -2,7 +2,7 @@
 
 Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf [búið til þitt eigið repo](https://github.com/new).
 
-Ef þú ert EKKI með réttindi, þá geturu sent **breytingabeiðni**
+Ef þú ert EKKI með réttindi, þá geturu sent [breytingabeiðni](#senda-breytingabeiðni)
 
 ## Breyta skrám (Edit)
 
