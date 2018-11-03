@@ -2,6 +2,18 @@ Til að geta breytt einhverju í "repoi" þarftu að vera skráður Github notan
 
 Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf búið til þitt eigið repo.
 
+Ef þú ert EKKI með réttindi, þá geturu sent **breytingabeiðni**
+
+## Senda breytingabeiðni
+
+Ef þú hefur ekki skrifheimild á repo, þá geturu sent breytingabeiðni "Pull request".
+
+* Ef þú skoðar t.d. https://log.piratar.is þá á hverri síðu er hlekkur "Laga þessa síðu"
+
+  ![preview](/images/2018-11-03_11-05-12.png)
+  
+* Ef smellt er á hann er þér bent á original skrána í Github repoinu, 
+* Þar geturu ýtt á blýantinn (edit)
 
 ## Breyta skrám (Edit)
 
@@ -17,6 +29,7 @@ Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf búið 
 3. Ýta á Commit
 
 ![upload](/images/2018-11-02_18-31-12.png)
+
 
 ## Búa til möppur
 * Að búa til möppu getur verið snúið en það þarf að smella á:
@@ -46,16 +59,3 @@ Smella á græna Commit takkann. Hægt er að setja inn skýringu.
 
 Lesa meira um Markdown:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-
-## Senda breytingabeiðni
-
-Ef þú hefur ekki skrifheimild á repo, þá geturu sent breytingabeiðni "Pull request".
-
-* Ef þú skoðar t.d. https://log.piratar.is þá á hverri síðu er hlekkur "Laga þessa síðu"
-
-  ![preview](/images/2018-11-03_11-05-12.png)
-  
-* Ef smellt er á hann er þér bent á original skrána í Github repoinu, 
-* Þar geturu ýtt á blýantinn (edit)
-
