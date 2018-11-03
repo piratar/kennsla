@@ -1,6 +1,6 @@
 *Til að geta breytt einhverju í "repoi" þarftu að vera skráður Github notandi, sem er frítt. Skráðu þig á https://github.com/*
 
-Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf búið til þitt eigið repo.
+Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf [búið til þitt eigið repo](https://github.com/new).
 
 Ef þú ert EKKI með réttindi, þá geturu sent **breytingabeiðni**
 
