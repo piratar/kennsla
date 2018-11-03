@@ -4,6 +4,16 @@ Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf [búið
 
 Ef þú ert EKKI með réttindi, þá geturu sent **breytingabeiðni**
 
+## Breyta skrám (Edit)
+
+Ef þú hefur skrifheimild á repo, þá þarftu að:
+
+1. Finna skránna og smella á hana
+2. Ýta á blýantinn:
+
+![edit](/images/2018-11-02_18-42-03.png)
+
+
 ## Senda breytingabeiðni
 
 Ef þú hefur ekki skrifheimild á repo, þá geturu sent breytingabeiðni "Pull request".
@@ -14,13 +24,6 @@ Ef þú hefur ekki skrifheimild á repo, þá geturu sent breytingabeiðni "Pull
   
 * Ef smellt er á hann er þér bent á original skrána í Github repoinu, 
 * Þar geturu ýtt á blýantinn (edit)
-
-## Breyta skrám (Edit)
-
-1. Finna skránna og smella á hana
-2. Ýta á blýantinn:
-
-![edit](/images/2018-11-02_18-42-03.png)
 
 
 ## Láta inn skrár (Upload)
