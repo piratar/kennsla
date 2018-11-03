@@ -54,6 +54,8 @@ Ef þú hefur ekki skrifheimild á repo, þá geturu sent breytingabeiðni "Pull
 
 * Ef þú skoðar t.d. https://log.piratar.is þá á hverri síðu er hlekkur "Laga þessa síðu"
 
-![preview](/images/2018-11-03_11-05-12.png)
-      
+  ![preview](/images/2018-11-03_11-05-12.png)
+  
+* Ef smellt er á hann er þér bent á original skrána í Github repoinu, 
+* Þar geturu ýtt á blýantinn (edit)
 
