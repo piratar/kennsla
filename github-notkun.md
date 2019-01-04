@@ -1,9 +1,18 @@
 # Hvernig á að nota Github?
-1. Til að setja inn eða breyta kóða þá þarftu að vera Github notandi, sem er frítt. Skráðu þig á https://github.com/*
+1. Til að setja inn eða breyta kóða þá þarftu að vera Github notandi, sem er frítt. Skráðu þig á https://github.com/
 1. Einnig þarftu að hafa réttindi á viðkomandi kóðageymslu (repository). 
    * Þú getur alltaf [búið til þitt eigið repository](https://github.com/new) til að prófa og æfa þig.
 
 1. Ef þú ert EKKI með skrifréttindi á repo, þá geturu sent [breytingabeiðni](#senda-breytingabeiðni)
+
+Kostir Git tæknirnar eru margir en helstu eru:
+* Allar breytingar er hægt að afturkalla "undo"
+* Breytingasaga
+
+## Búa til skrá (Create new file)
+1. Velja repo sem þú mátt skrifa í, eða búa til nýtt repo https://github.com/new
+1. Ýta á "Create new file" takkann hægra megin við miðju
+1. Velja nafn, skruna niður og ýta á græna "Commit new file" takkann
 
 ## Breyta skrám (Edit)
 
