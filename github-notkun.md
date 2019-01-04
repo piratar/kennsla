@@ -1,8 +1,9 @@
-*Til að geta breytt einhverju í "repoi" þarftu að vera skráður Github notandi, sem er frítt. Skráðu þig á https://github.com/*
+# Hvernig á að nota Github?
+1. Allir geta lesið kóðann
+1. Til að breyta kóða þarftu að vera Github notandi, sem er frítt. Skráðu þig á https://github.com/*
+1. Einnig þarftu að hafa réttindi á viðkomandi kóðageymslu (repository). Þú getur alltaf [búið til þitt eigið repo](https://github.com/new) til að prófa og æfa þig.
 
-Einnig þarftu að hafa réttindi á viðkomandi repo. Þú getur alltaf [búið til þitt eigið repo](https://github.com/new).
-
-Ef þú ert EKKI með réttindi, þá geturu sent [breytingabeiðni](#senda-breytingabeiðni)
+Ef þú ert EKKI með skrifréttindi á repo, þá geturu sent [breytingabeiðni](#senda-breytingabeiðni)
 
 ## Breyta skrám (Edit)
 
@@ -62,3 +63,5 @@ Smella á græna Commit takkann. Hægt er að setja inn skýringu.
 
 Lesa meira um Markdown:
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+[Um Github frá vef Wikibooks](https://is.wikibooks.org/wiki/Uppl%C3%BDsingat%C3%A6kni/A%C3%B0_nota_Github)
