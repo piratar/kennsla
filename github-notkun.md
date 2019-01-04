@@ -1,13 +1,13 @@
 # Hvernig á að nota Github?
-1. Allir geta lesið kóðann
-1. Til að breyta kóða þarftu að vera Github notandi, sem er frítt. Skráðu þig á https://github.com/*
-1. Einnig þarftu að hafa réttindi á viðkomandi kóðageymslu (repository). Þú getur alltaf [búið til þitt eigið repo](https://github.com/new) til að prófa og æfa þig.
+1. Til að setja inn eða breyta kóða þá þarftu að vera Github notandi, sem er frítt. Skráðu þig á https://github.com/*
+1. Einnig þarftu að hafa réttindi á viðkomandi kóðageymslu (repository). 
+   * Þú getur alltaf [búið til þitt eigið repository](https://github.com/new) til að prófa og æfa þig.
 
-Ef þú ert EKKI með skrifréttindi á repo, þá geturu sent [breytingabeiðni](#senda-breytingabeiðni)
+1. Ef þú ert EKKI með skrifréttindi á repo, þá geturu sent [breytingabeiðni](#senda-breytingabeiðni)
 
 ## Breyta skrám (Edit)
 
-Ef þú hefur skrifheimild á repo, þá þarftu að:
+Ef þú hefur skrifheimild á kóðageymslu, þá þarftu að:
 
 1. Finna skránna og smella á hana
 2. Ýta á blýantinn:
