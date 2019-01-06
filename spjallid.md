@@ -6,5 +6,5 @@ Til að setja inn færslur á Spjallið, þarftu að vera **skráður** meðlimu
 
 
 Spjallið notar opinn hugbúnað sem heitir Discourse
-* https://www.discourse.org/about
-* https://www.discourse.org/features
+* Sjá möguleika kerfisins hér: https://www.discourse.org/features
+* Meira um kerfið: https://www.discourse.org/about
